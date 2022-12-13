@@ -74,3 +74,6 @@ if (mode != 0) {
                         type = "Liquid cup";
                     }
                     break;
+
+# Contributors
+Candy wilson - cooking support
