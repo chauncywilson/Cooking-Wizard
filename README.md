@@ -4,6 +4,9 @@ Ever needed some help to convert a recipe? This has the tools to help you speed 
 ## Synopsis
 Cooking Wizard is used to help halve, double, or triple the recipe as well as changing the measurements to easier to use variations for added ease
 
+## Needed downloads outside to run the code
+Javafx is needed to run Cooking Wizard
+
 ## Code example
 This portion of code is how the program handles which unit of measurement to change it to.
 
